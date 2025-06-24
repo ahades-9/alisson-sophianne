@@ -50,9 +50,3 @@
 
 Este proyecto es una página web simple con mi biografía, enlaces a mi universidad, carrera, cursos realizados, contactos y perfiles de LinkedIn relevantes.
 
-## Archivos
-
-- `index.html` - Página principal con el contenido.
-- `styles.css` - Estilos personalizados en color azul.
-- `README.md` - Descripción del proyecto.
-
