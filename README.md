@@ -10,7 +10,7 @@
 <body>
   <header>
     <h1>Alisson Sophianne Moscoso Motta</h1>
-    <p>Estudiante apasionado por la tecnología y el desarrollo de software.</p>
+    <p>Estudiante apasionado por contabilidad y las finanzas.</p>
   </header>
 
   <section>
@@ -46,38 +46,7 @@
   </section>
 </body>
 </html>
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
 
-header {
-  background-color: #007acc;
-  color: white;
-  padding: 2rem;
-  text-align: center;
-}
-
-section {
-  padding: 1.5rem 2rem;
-  border-bottom: 1px solid #ccc;
-}
-
-h2 {
-  color: #007acc;
-}
-
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
 # Página Personal - Biografía
 
 Este proyecto es una página web simple con mi biografía, enlaces a mi universidad, carrera, cursos realizados, contactos y perfiles de LinkedIn relevantes.
