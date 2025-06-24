@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Alisson Sophianne Moscoso Motta</title>
-  <meta name="google-site-verification" content="49v4F8Lx5MG__seIU8Mzm2su51FrDozsaQm5kIeg-x8" />
+<meta name="google-site-verification" content="49v4F8Lx5MG__seIU8Mzm2su51FrDozsaQm5kIeg-x8" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
