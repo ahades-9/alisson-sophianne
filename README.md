@@ -1,11 +1,13 @@
-<!DOCTYPE html>
+<html>
 <html lang="es">
 <head>
-  <meta name="google-site-verification" content="49v4F8Lx5MG__seIU8Mzm2su51FrDozsaQm5kIeg-x8" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Alisson Sophianne Moscoso Motta</title>
+  <title> 
+    Alisson Sophianne Moscoso Motta 
+  </title>
   <link rel="stylesheet" href="styles.css" />
+    <meta name="google-site-verification" content="49v4F8Lx5MG__seIU8Mzm2su51FrDozsaQm5kIeg-x8" />
 </head>
 <body>
   <header>
@@ -26,7 +28,7 @@
       <li>Cálculo</li>
       <li>Liderazgo</li>
       <li>Historia</li>
-      <li>Antropoologia/li>
+      <li>Antropoologia</li>
       <li>Filosofía de la naturaleza</li>
     </ul>
   </section>
